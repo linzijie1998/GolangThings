@@ -1,8 +1,10 @@
 package mock
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"bou.ke/monkey"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestProcessFirstLine(t *testing.T) {
