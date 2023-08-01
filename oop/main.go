@@ -23,5 +23,4 @@ func main() {
 		Age:  3,
 	}
 	fmt.Println(dog.Info())
-
 }

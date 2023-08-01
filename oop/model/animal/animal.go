@@ -2,7 +2,7 @@ package animal
 
 import "fmt"
 
-// Animal接口，有一个Info方法返回动物的基本信息
+// Animal Animal接口，有一个Info方法返回动物的基本信息
 type Animal interface {
 	Info() string
 }
