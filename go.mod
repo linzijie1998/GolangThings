@@ -3,6 +3,7 @@ module github.com/linzijie1998/GolangThings
 go 1.19
 
 require (
+	bou.ke/monkey v1.0.2
 	github.com/bytedance/gopkg v0.0.0-20230728082804-614d0af6619b
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.1
 	github.com/stretchr/testify v1.8.4
